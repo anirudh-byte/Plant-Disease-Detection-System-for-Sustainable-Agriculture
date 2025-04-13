@@ -518,7 +518,7 @@ st.markdown(f"""
     <p>Contact: support@plantdoctor.ai (Example)</p>
 </div>
 """, unsafe_allow_html=True)
-=======
+
 import streamlit as st
 import tensorflow as tf
 import numpy as np
